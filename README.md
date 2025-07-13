@@ -83,7 +83,7 @@ listen web_tcp
 
 ![screen1](/img/10-2-1.jpg)
 
-![screen1](/img/10-2-2.png)
+![screen1](/img/10-2-2-2.png)
 
 ---
 
